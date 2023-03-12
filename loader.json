@@ -1,0 +1,28 @@
+{
+  "version" : "2.0.1",
+  "userdata" : {
+    "username" : "user",
+    "difficultyselect" : "medium",
+    "difficulty" : {
+      "easy" : {
+        "win" : 0,
+        "lost" : 0,
+        "attempts" : 10
+      },
+      "medium" : {
+        "win" : 0,
+        "lost" : 0,
+        "attempts" : 5
+      },
+      "hard" : {
+        "win" : 0,
+        "lost" : 0,
+        "attempts" : 3
+      }
+    }
+  },
+  "aspect" : {
+    "fullscreen" : false,
+    "theme" : "light"
+  }
+}
